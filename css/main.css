@@ -30,3 +30,48 @@
 	color: #5a5a5a;
 }
 
+/*Segunda sección*/
+.second-section {
+	background-color: #FFF;
+	padding: 5em 0;
+}
+
+.title-second {
+	color: #d2527f;
+}
+
+.features {
+	padding: 0.8em;
+}
+
+.features:hover {
+	background-color: #f2f2f2;
+	cursor: pointer;
+}
+
+p {
+	padding: 0;
+	margin-bottom: 1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: #666;
+	margin-top: 1em;
+}
+/*Tercera sección*/
+.third-section {
+	background-color: #f2f2f2;
+	height: 100vh; 
+}
+.btn-default {
+	color: #fff;
+	background-color: #d2527f;
+	border-color: #b4215d;
+}
+.btn-default:hover {
+	background-color: #c53a6d;
+	color: #fff;
+}
+.btns {
+	padding-top: 5em;
+}
